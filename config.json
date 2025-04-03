@@ -1,0 +1,13 @@
+{
+    "base_dir": "/home/pi/eink_calendar",
+    "update_interval": 3600,
+    "ical_files_dir": "data/ics",
+    "merged_calendar_file": "data/merged_calendar.json",
+    "credentials_file": "data/credentials.json",
+    "holiday_api_url": "https://date.nager.at/api/v3/PublicHolidays",
+    "display_width": 800,
+    "display_height": 480,
+    "font_path": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    "output_image": "data/weekly_calendar_output.bmp",
+    "test_mode": true
+}
