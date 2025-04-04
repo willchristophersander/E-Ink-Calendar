@@ -21,7 +21,7 @@ Steps:
 
 9: Replace key with your app-specific password. Keep the quotation marks.
 
-From here you'll need to install the following dependencies on whatever device you're using the calendar on (I've listed them as easy to run pip install commands for your convenience):
+From here you'll need to install the following dependencies on whatever device/environment you're using the calendar on (I've listed them as easy to run pip install commands for your convenience):
 
 pip install icalendar
 
