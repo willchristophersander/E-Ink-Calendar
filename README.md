@@ -2,6 +2,7 @@ To use this program you'll have to do a little bit of work setting it up, but I'
 Currently the calendar only works with iCloud data -- as such you have to use an iCloud limited-access password you get from Apple. Here are the steps for that.
 
 Steps:
+
 1: Go to https://account.apple.com
 
 2: Login
