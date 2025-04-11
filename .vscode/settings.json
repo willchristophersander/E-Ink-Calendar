@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./display/display_panel_types",
+        "./display"
+    ]
+}

@@ -5,7 +5,7 @@
         "end_time": "2025-04-07T17:55:00-04:00",
         "description": "",
         "location": "Old Mill Building UVM\n94 University Pl, Burlington, VT  05405, United States",
-        "day": 7
+        "day": 5
     },
     {
         "summary": "CS 3930-A",
@@ -13,7 +13,7 @@
         "end_time": "2025-04-14T17:55:00-04:00",
         "description": "",
         "location": "Old Mill Building UVM\n94 University Pl, Burlington, VT  05405, United States",
-        "day": 14
+        "day": 12
     },
     {
         "summary": "CS 3930-A",
@@ -21,7 +21,7 @@
         "end_time": "2025-04-21T17:55:00-04:00",
         "description": "",
         "location": "Old Mill Building UVM\n94 University Pl, Burlington, VT  05405, United States",
-        "day": 21
+        "day": 19
     },
     {
         "summary": "CS 3930-A",
@@ -29,15 +29,7 @@
         "end_time": "2025-04-28T17:55:00-04:00",
         "description": "",
         "location": "Old Mill Building UVM\n94 University Pl, Burlington, VT  05405, United States",
-        "day": 28
-    },
-    {
-        "summary": "3240 Office hours",
-        "start_time": "2025-04-01T13:00:00-04:00",
-        "end_time": "2025-04-01T14:00:00-04:00",
-        "description": "",
-        "location": "",
-        "day": 1
+        "day": 26
     },
     {
         "summary": "3240 Office hours",
@@ -45,7 +37,7 @@
         "end_time": "2025-04-03T14:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 3
+        "day": 1
     },
     {
         "summary": "3240 Office hours",
@@ -53,7 +45,7 @@
         "end_time": "2025-04-08T14:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 8
+        "day": 6
     },
     {
         "summary": "3240 Office hours",
@@ -61,7 +53,7 @@
         "end_time": "2025-04-10T14:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 10
+        "day": 8
     },
     {
         "summary": "3240 Office hours",
@@ -69,7 +61,7 @@
         "end_time": "2025-04-15T14:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 15
+        "day": 13
     },
     {
         "summary": "3240 Office hours",
@@ -77,7 +69,7 @@
         "end_time": "2025-04-17T14:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 17
+        "day": 15
     },
     {
         "summary": "3240 Office hours",
@@ -85,7 +77,7 @@
         "end_time": "2025-04-22T14:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 22
+        "day": 20
     },
     {
         "summary": "3240 Office hours",
@@ -93,12 +85,20 @@
         "end_time": "2025-04-24T14:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 24
+        "day": 22
     },
     {
         "summary": "3240 Office hours",
         "start_time": "2025-04-29T13:00:00-04:00",
         "end_time": "2025-04-29T14:00:00-04:00",
+        "description": "",
+        "location": "",
+        "day": 27
+    },
+    {
+        "summary": "3240 Office hours",
+        "start_time": "2025-05-01T13:00:00-04:00",
+        "end_time": "2025-05-01T14:00:00-04:00",
         "description": "",
         "location": "",
         "day": 29
@@ -109,7 +109,7 @@
         "end_time": "2025-04-04T13:30:00+00:00",
         "description": "Bring your own mug and join us for Coffee and Code in the Atrium on the main floor of Howe Library. We will be there every 1st and 3rd Friday of the month during the Fall semester.\n\n \n\nWhether you are debugging code, refining your syntax or exploring programming to advance your research, Coffee and Code at the library is a great place to receive help and share knowledge! Stop by for some free coffee and coding advice for your R, SAS, SPSS or STATA project.\n\n \n\nNo specific problem or questions? No worries -- join us to chat with other researchers in the morning.\n\nCoffee and Code is the best way to start your Friday!",
         "location": "Howe Library, first floor, Atrium",
-        "day": 4
+        "day": 2
     },
     {
         "summary": "Networking/Event Experience - Due",
@@ -117,7 +117,7 @@
         "end_time": "2025-04-07T03:59:00+00:00",
         "description": "Reflection #2: Answer the following questions and respond to the prompt:\u00a0\n\nWhat event did you attend, and why did you choose it?\u00a0\nWhat did you learn at this event, and/or what will you do differently in the future?\nWhat is your elevator pitch you gave (or would give) to an employer or mentor?\nWhat other ways are you going to network in the future?\n\nThis reflection should be 1-2 pages in length, double-spaced, 12-point font.\u00a0\n\nNote: You MUST attend one of these events to complete this assignment:\u00a0\n\nSTEM Networking Night (2/4)\u00a0\nSpring Job & Internship Fair (2/26)\nCareer Event from Handshake\u00a0\nLocal Networking Event\nTBD - Dealer's choice\u00a0\n\nBonus: Two extra points on your assignment for attending 2+ events.\n\n\nAssignments:\nNetworking/Event Experience - https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=103855&db=157027\n\n\nView event - https://brightspace.uvm.edu/d2l/le/calendar/103855/event/350645/detailsview?ou=103855#350645",
         "location": "CS3930A: Computing Career Preparation",
-        "day": 7
+        "day": 5
     },
     {
         "summary": "Ethics Assignment - Due",
@@ -125,7 +125,7 @@
         "end_time": "2025-04-08T03:59:59+00:00",
         "description": "Assignments:\nEthics Assignment\n\n\nView event - https://brightspace.uvm.edu/d2l/le/calendar/108267/event/328887/detailsview?ou=108267#328887",
         "location": "ANTH1400A: Biological Anthropology",
-        "day": 8
+        "day": 6
     },
     {
         "summary": "Film Review (due one week after film screening) - Due",
@@ -133,7 +133,7 @@
         "end_time": "2025-04-15T03:59:59+00:00",
         "description": "Assignments:\nFilm Review (due one week after film screening)\n\n\nView event - https://brightspace.uvm.edu/d2l/le/calendar/108267/event/328883/detailsview?ou=108267#328883",
         "location": "ANTH1400A: Biological Anthropology",
-        "day": 15
+        "day": 13
     },
     {
         "summary": "Exam #2 - Available",
@@ -141,7 +141,7 @@
         "end_time": "2025-04-16T18:00:00+00:00",
         "description": "Quizzes:\nExam #2 - https://brightspace.uvm.edu/d2l/lms/quizzing/quizzing.d2l?ou=108267&qi=360051\n\n\nView event - https://brightspace.uvm.edu/d2l/le/calendar/108267/event/329224/detailsview?ou=108267#329224",
         "location": "ANTH1400A: Biological Anthropology",
-        "day": 16
+        "day": 14
     },
     {
         "summary": "Exam #2 - Due",
@@ -149,7 +149,7 @@
         "end_time": "2025-04-17T02:00:00+00:00",
         "description": "Quizzes:\nExam #2 - https://brightspace.uvm.edu/d2l/lms/quizzing/quizzing.d2l?ou=108267&qi=360051\n\n\nView event - https://brightspace.uvm.edu/d2l/le/calendar/108267/event/329223/detailsview?ou=108267#329223",
         "location": "ANTH1400A: Biological Anthropology",
-        "day": 17
+        "day": 15
     },
     {
         "summary": "Exam #2 - Availability Ends",
@@ -157,7 +157,7 @@
         "end_time": "2025-04-17T02:00:00+00:00",
         "description": "Quizzes:\nExam #2 - https://brightspace.uvm.edu/d2l/lms/quizzing/quizzing.d2l?ou=108267&qi=360051\n\n\nView event - https://brightspace.uvm.edu/d2l/le/calendar/108267/event/329225/detailsview?ou=108267#329225",
         "location": "ANTH1400A: Biological Anthropology",
-        "day": 17
+        "day": 15
     },
     {
         "summary": "Coffee and Code",
@@ -165,7 +165,23 @@
         "end_time": "2025-04-18T13:30:00+00:00",
         "description": "Bring your own mug and join us for Coffee and Code in the Atrium on the main floor of Howe Library. We will be there every 1st and 3rd Friday of the month during the Fall semester.\n\n \n\nWhether you are debugging code, refining your syntax or exploring programming to advance your research, Coffee and Code at the library is a great place to receive help and share knowledge! Stop by for some free coffee and coding advice for your R, SAS, SPSS or STATA project.\n\n \n\nNo specific problem or questions? No worries -- join us to chat with other researchers in the morning.\n\nCoffee and Code is the best way to start your Friday!",
         "location": "Howe Library, first floor, Atrium",
-        "day": 18
+        "day": 16
+    },
+    {
+        "summary": "Coffee and Code",
+        "start_time": "2025-05-02T12:30:00+00:00",
+        "end_time": "2025-05-02T13:30:00+00:00",
+        "description": "Bring your own mug and join us for Coffee and Code in the Atrium on the main floor of Howe Library. We will be there every 1st and 3rd Friday of the month during the Fall semester.\n\n \n\nWhether you are debugging code, refining your syntax or exploring programming to advance your research, Coffee and Code at the library is a great place to receive help and share knowledge! Stop by for some free coffee and coding advice for your R, SAS, SPSS or STATA project.\n\n \n\nNo specific problem or questions? No worries -- join us to chat with other researchers in the morning.\n\nCoffee and Code is the best way to start your Friday!",
+        "location": "Howe Library, first floor, Atrium",
+        "day": 30
+    },
+    {
+        "summary": "Last day of classes",
+        "start_time": "2025-05-02T09:00:00-04:00",
+        "end_time": "2025-05-02T10:00:00-04:00",
+        "description": "",
+        "location": "",
+        "day": 30
     },
     {
         "summary": "ANTHRO Exam 2",
@@ -173,7 +189,7 @@
         "end_time": "2025-04-16T15:00:00-04:00",
         "description": "",
         "location": "",
-        "day": 16
+        "day": 14
     },
     {
         "summary": "New Year's Day",
@@ -181,7 +197,7 @@
         "end_time": "2025-01-02",
         "description": "",
         "location": "",
-        "day": -89
+        "day": -91
     },
     {
         "summary": "Martin Luther King, Jr. Day",
@@ -189,7 +205,7 @@
         "end_time": "2025-01-21",
         "description": "",
         "location": "",
-        "day": -70
+        "day": -72
     },
     {
         "summary": "Lincoln's Birthday",
@@ -197,7 +213,7 @@
         "end_time": "2025-02-13",
         "description": "",
         "location": "",
-        "day": -47
+        "day": -49
     },
     {
         "summary": "Presidents Day",
@@ -205,7 +221,7 @@
         "end_time": "2025-02-18",
         "description": "",
         "location": "",
-        "day": -42
+        "day": -44
     },
     {
         "summary": "Good Friday",
@@ -213,7 +229,7 @@
         "end_time": "2025-04-19",
         "description": "",
         "location": "",
-        "day": 18
+        "day": 16
     },
     {
         "summary": "Good Friday",
@@ -221,7 +237,7 @@
         "end_time": "2025-04-19",
         "description": "",
         "location": "",
-        "day": 18
+        "day": 16
     },
     {
         "summary": "Truman Day",
@@ -229,7 +245,7 @@
         "end_time": "2025-05-09",
         "description": "",
         "location": "",
-        "day": 38
+        "day": 36
     },
     {
         "summary": "Memorial Day",
@@ -237,7 +253,7 @@
         "end_time": "2025-05-27",
         "description": "",
         "location": "",
-        "day": 56
+        "day": 54
     },
     {
         "summary": "Juneteenth National Independence Day",
@@ -245,7 +261,7 @@
         "end_time": "2025-06-20",
         "description": "",
         "location": "",
-        "day": 80
+        "day": 78
     },
     {
         "summary": "Independence Day",
@@ -253,7 +269,7 @@
         "end_time": "2025-07-05",
         "description": "",
         "location": "",
-        "day": 95
+        "day": 93
     },
     {
         "summary": "Labor Day",
@@ -261,7 +277,7 @@
         "end_time": "2025-09-02",
         "description": "",
         "location": "",
-        "day": 154
+        "day": 152
     },
     {
         "summary": "Columbus Day",
@@ -269,7 +285,7 @@
         "end_time": "2025-10-14",
         "description": "",
         "location": "",
-        "day": 196
+        "day": 194
     },
     {
         "summary": "Indigenous Peoples' Day",
@@ -277,7 +293,7 @@
         "end_time": "2025-10-14",
         "description": "",
         "location": "",
-        "day": 196
+        "day": 194
     },
     {
         "summary": "Veterans Day",
@@ -285,7 +301,7 @@
         "end_time": "2025-11-12",
         "description": "",
         "location": "",
-        "day": 225
+        "day": 223
     },
     {
         "summary": "Thanksgiving Day",
@@ -293,7 +309,7 @@
         "end_time": "2025-11-28",
         "description": "",
         "location": "",
-        "day": 241
+        "day": 239
     },
     {
         "summary": "Christmas Day",
@@ -301,15 +317,7 @@
         "end_time": "2025-12-26",
         "description": "",
         "location": "",
-        "day": 269
-    },
-    {
-        "summary": "Structures",
-        "start_time": "2025-04-02T10:50:00-04:00",
-        "end_time": "2025-04-02T11:40:00-04:00",
-        "description": "",
-        "location": "",
-        "day": 2
+        "day": 267
     },
     {
         "summary": "Structures",
@@ -317,7 +325,7 @@
         "end_time": "2025-04-04T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 4
+        "day": 2
     },
     {
         "summary": "Structures",
@@ -325,7 +333,7 @@
         "end_time": "2025-04-07T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 7
+        "day": 5
     },
     {
         "summary": "Structures",
@@ -333,7 +341,7 @@
         "end_time": "2025-04-09T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 9
+        "day": 7
     },
     {
         "summary": "Structures",
@@ -341,7 +349,7 @@
         "end_time": "2025-04-11T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 11
+        "day": 9
     },
     {
         "summary": "Structures",
@@ -349,7 +357,7 @@
         "end_time": "2025-04-14T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 14
+        "day": 12
     },
     {
         "summary": "Structures",
@@ -357,7 +365,7 @@
         "end_time": "2025-04-16T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 16
+        "day": 14
     },
     {
         "summary": "Structures",
@@ -365,7 +373,7 @@
         "end_time": "2025-04-18T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 18
+        "day": 16
     },
     {
         "summary": "Structures",
@@ -373,7 +381,7 @@
         "end_time": "2025-04-21T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 21
+        "day": 19
     },
     {
         "summary": "Structures",
@@ -381,7 +389,7 @@
         "end_time": "2025-04-23T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 23
+        "day": 21
     },
     {
         "summary": "Structures",
@@ -389,7 +397,7 @@
         "end_time": "2025-04-25T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 25
+        "day": 23
     },
     {
         "summary": "Structures",
@@ -397,7 +405,7 @@
         "end_time": "2025-04-28T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 28
+        "day": 26
     },
     {
         "summary": "Structures",
@@ -405,15 +413,15 @@
         "end_time": "2025-04-30T11:40:00-04:00",
         "description": "",
         "location": "",
-        "day": 30
+        "day": 28
     },
     {
-        "summary": "ECON1280 ",
-        "start_time": "2025-04-02T12:00:00-04:00",
-        "end_time": "2025-04-02T12:50:00-04:00",
+        "summary": "Structures",
+        "start_time": "2025-05-02T10:50:00-04:00",
+        "end_time": "2025-05-02T11:40:00-04:00",
         "description": "",
-        "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 2
+        "location": "",
+        "day": 30
     },
     {
         "summary": "ECON1280 ",
@@ -421,7 +429,7 @@
         "end_time": "2025-04-04T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 4
+        "day": 2
     },
     {
         "summary": "ECON1280 ",
@@ -429,7 +437,7 @@
         "end_time": "2025-04-07T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 7
+        "day": 5
     },
     {
         "summary": "ECON1280 ",
@@ -437,7 +445,7 @@
         "end_time": "2025-04-09T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 9
+        "day": 7
     },
     {
         "summary": "ECON1280 ",
@@ -445,7 +453,7 @@
         "end_time": "2025-04-11T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 11
+        "day": 9
     },
     {
         "summary": "ECON1280 ",
@@ -453,7 +461,7 @@
         "end_time": "2025-04-14T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 14
+        "day": 12
     },
     {
         "summary": "ECON1280 ",
@@ -461,7 +469,7 @@
         "end_time": "2025-04-16T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 16
+        "day": 14
     },
     {
         "summary": "ECON1280 ",
@@ -469,7 +477,7 @@
         "end_time": "2025-04-18T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 18
+        "day": 16
     },
     {
         "summary": "ECON1280 ",
@@ -477,7 +485,7 @@
         "end_time": "2025-04-21T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 21
+        "day": 19
     },
     {
         "summary": "ECON1280 ",
@@ -485,7 +493,7 @@
         "end_time": "2025-04-23T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 23
+        "day": 21
     },
     {
         "summary": "ECON1280 ",
@@ -493,7 +501,7 @@
         "end_time": "2025-04-25T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 25
+        "day": 23
     },
     {
         "summary": "ECON1280 ",
@@ -501,7 +509,7 @@
         "end_time": "2025-04-28T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 28
+        "day": 26
     },
     {
         "summary": "ECON1280 ",
@@ -509,15 +517,15 @@
         "end_time": "2025-04-30T12:50:00-04:00",
         "description": "",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 30
+        "day": 28
     },
     {
-        "summary": "ANTH 1400 FLEM101",
-        "start_time": "2025-04-02T14:20:00-04:00",
-        "end_time": "2025-04-02T15:10:00-04:00",
+        "summary": "ECON1280 ",
+        "start_time": "2025-05-02T12:00:00-04:00",
+        "end_time": "2025-05-02T12:50:00-04:00",
         "description": "",
-        "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 2
+        "location": "55 Colchester Ave\nBurlington, VT, United States",
+        "day": 30
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -525,7 +533,7 @@
         "end_time": "2025-04-04T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 4
+        "day": 2
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -533,7 +541,7 @@
         "end_time": "2025-04-07T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 7
+        "day": 5
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -541,7 +549,7 @@
         "end_time": "2025-04-09T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 9
+        "day": 7
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -549,7 +557,7 @@
         "end_time": "2025-04-11T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 11
+        "day": 9
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -557,7 +565,7 @@
         "end_time": "2025-04-14T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 14
+        "day": 12
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -565,7 +573,7 @@
         "end_time": "2025-04-16T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 16
+        "day": 14
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -573,7 +581,7 @@
         "end_time": "2025-04-18T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 18
+        "day": 16
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -581,7 +589,7 @@
         "end_time": "2025-04-21T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 21
+        "day": 19
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -589,7 +597,7 @@
         "end_time": "2025-04-23T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 23
+        "day": 21
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -597,7 +605,7 @@
         "end_time": "2025-04-25T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 25
+        "day": 23
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -605,7 +613,7 @@
         "end_time": "2025-04-28T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 28
+        "day": 26
     },
     {
         "summary": "ANTH 1400 FLEM101",
@@ -613,15 +621,15 @@
         "end_time": "2025-04-30T15:10:00-04:00",
         "description": "",
         "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
-        "day": 30
+        "day": 28
     },
     {
-        "summary": "3240 Algorithm D&A",
-        "start_time": "2025-04-03T10:05:00-04:00",
-        "end_time": "2025-04-03T11:20:00-04:00",
-        "description": "102, Perkins",
-        "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 3
+        "summary": "ANTH 1400 FLEM101",
+        "start_time": "2025-05-02T14:20:00-04:00",
+        "end_time": "2025-05-02T15:10:00-04:00",
+        "description": "",
+        "location": "Fleming Museum of Art\n61 Colchester Ave, Burlington, VT  05405, United States",
+        "day": 30
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -629,7 +637,7 @@
         "end_time": "2025-04-08T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 8
+        "day": 6
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -637,7 +645,7 @@
         "end_time": "2025-04-10T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 10
+        "day": 8
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -645,7 +653,7 @@
         "end_time": "2025-04-15T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 15
+        "day": 13
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -653,7 +661,7 @@
         "end_time": "2025-04-17T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 17
+        "day": 15
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -661,7 +669,7 @@
         "end_time": "2025-04-22T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 22
+        "day": 20
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -669,7 +677,7 @@
         "end_time": "2025-04-24T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 24
+        "day": 22
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -677,7 +685,7 @@
         "end_time": "2025-04-29T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 29
+        "day": 27
     },
     {
         "summary": "3240 Algorithm D&A",
@@ -685,6 +693,6 @@
         "end_time": "2025-05-01T11:20:00-04:00",
         "description": "102, Perkins",
         "location": "55 Colchester Ave\nBurlington, VT, United States",
-        "day": 31
+        "day": 29
     }
 ]
