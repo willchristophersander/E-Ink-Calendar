@@ -1,3 +1,6 @@
+![1743729067438](https://github.com/user-attachments/assets/3e64e9c6-82a5-4ba5-9fba-b7f0abd16980)
+
+
 To use this program you'll have to do a little bit of work setting it up, but I've made the instructions very simple in order for most people to be able to do it.
 Currently the calendar only works with iCloud data -- as such you have to use an iCloud limited-access password you get from Apple. Here are the steps for that.
 
